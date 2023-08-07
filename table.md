@@ -1,0 +1,5 @@
+| js | license | demo | preview |
+| - | - | - | - |
+| [Annotate](//github.com/molly/annotate) | [![](https://img.shields.io/github/license/molly/annotate?label=&style=flat-square)](//github.com/molly/annotate/blob/main/LICENSE) | [heti](/annotate) | ![](_media/heti.png) |
+| [lightGallery](//www.lightgalleryjs.com/) | [![](https://img.shields.io/static/v1?style=flat-square&message=License&color=blue&label=)](//www.lightgalleryjs.com/license) | [lg-video](/lg-video) | ![](_media/lg-video.png) |
+| [Tabulator](//tabulator.info/) | [![](https://img.shields.io/static/v1?style=flat-square&message=MIT&color=green&label=)](//tabulator.info/docs/5.5/license) | [cumaean](/cumaean) | ![](_media/cumaean.png) |
