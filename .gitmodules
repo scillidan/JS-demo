@@ -1,3 +1,6 @@
 [submodule "annotate"]
 	path = annotate
 	url = https://github.com/scillidan/annotate
+[submodule "color"]
+	path = color
+	url = https://github.com/scillidan/color
